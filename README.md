@@ -20,7 +20,8 @@
 
   ● 🔥 My Intention   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: **All the effort I've made has answered that question.🌙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
