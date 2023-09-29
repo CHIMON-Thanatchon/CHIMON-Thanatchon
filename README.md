@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **CODE-Of-CHIMON**
 
+- 🥰 What do you learn from? ****
+
 - 🌱 I’m currently learning **HTML and CSS for in creating websites and Python in the future**
 
 - 📫 How to reach me **ilovechimon@gmail.com**
