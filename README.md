@@ -4,19 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
 
-- 🔭 I’m currently working on **CODE-Of-CHIMON**
+  ● 🔭 I’m currently working on &nbsp;**CODE-Of-CHIMON**
 
-- 🥰 What do you learn from? ****
+  ● 🥰 What do you learn from?   
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT**
 
-- 🌱 I’m currently learning **HTML and CSS for in creating websites and Python in the future**
+  ● 🌱 I’m currently learning   
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HTML and CSS for in creating websites and Python in the future**
 
-- 📫 How to reach me **ilovechimon@gmail.com**
+  ● 📫 How to message me   
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ilovechimon@gmail.com**
 
-- ⚡ Fun fact **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
+  ● ⚡ Fun fact   
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/thanatchon phuksakulwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanatchon phuksakulwong" height="30" width="40" /></a>
+<a href="https://fb.com/thanatchon.phuksakulwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanatchon phuksakulwong" height="30" width="40" /></a>
 <a href="https://instagram.com/chimon_24.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chimon_24.22" height="30" width="40" /></a>
 <a href="https://discord.gg/xxkairosxxmechimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xxkairosxxmechimon" height="30" width="40" /></a>
 </p>
