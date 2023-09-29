@@ -6,7 +6,7 @@
 
   ● 🔭 I’m currently working on &nbsp;**CODE-Of-CHIMON**
 
-  ● 🥰 What do you learn from?   
+  ● 🧑🏽‍💻 What do you learn from?   
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT etc...**
 
@@ -18,7 +18,7 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **ilovechimon@gmail.com**
 
-  ● ⚡ Fun fact   
+  ● 🔥 My Intention   
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
 
