@@ -8,19 +8,19 @@
 
   ● 🥰 What do you learn from?   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT**
 
   ● 🌱 I’m currently learning   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HTML and CSS for in creating websites and Python in the future**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **HTML and CSS for in creating websites and Python in the future**
 
   ● 📫 How to message me   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ilovechimon@gmail.com**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **ilovechimon@gmail.com**
 
   ● ⚡ Fun fact   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
