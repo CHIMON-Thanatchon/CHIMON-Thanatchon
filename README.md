@@ -8,7 +8,7 @@
 
   ● 🥰 What do you learn from?   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT etc...**
 
   ● 🌱 I’m currently learning   
   
