@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
 
-  ● 🔭 I’m currently working on &nbsp;[CODE-Of-CHIMON](https://github.com/CHIMON-Thanatchon/CODE-Of-CHIMON)  
+  ● 🔭 I’m currently working on &nbsp;[CODE-Of-CHIMON](https://github.com/CHIMON-Thanatchon/CODE-Of-CHIMON) (Private 💌)  
 
   ● 🧑🏽‍💻 What do you learn from?   
   
