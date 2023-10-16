@@ -1,5 +1,6 @@
 ![image](/Image/pexelsIqbal.jpg)
 <h1 align="center">It’s nice to meet you 👋, I'm Thanatchon</h1>
+<img align="right" src="/Image/Chimon~~.gif">
 <h3 align="center">A Man Has A Dream.🌙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
