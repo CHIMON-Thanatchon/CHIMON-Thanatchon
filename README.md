@@ -13,7 +13,7 @@
 
   ● 🌱 I’m currently learning   
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **HTML and CSS for in creating websites and Python in the future**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **Now I'm seriously studying English to learn information from foreign programmers. 🔥Fighting !!**
 
   ● 📫 How to message me   
   
