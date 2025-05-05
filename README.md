@@ -1,6 +1,6 @@
 ![image](/Image/Calling%20Card/WhatKindofGodIneedtobe.png)
 <h1 align="center">It’s nice to meet you 👋, I'm Thanatchon</h1>
-<img align="right" src="/Image/Gif/gurren-lagann-GigaDrillBreak.gif" width="230px">
+<img align="right" src="/Image/Gif/Chimon~~.gif" width="230px">
 <h3 align="center">A Man Has A Dream.🌙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
@@ -21,7 +21,7 @@
 
   ● 🔥 My Intention
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: **All the effort I've made has answered that question.🌙**
 
 <h3 align="left">Connect with me:</h3>
