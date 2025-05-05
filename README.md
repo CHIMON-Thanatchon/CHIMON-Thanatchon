@@ -1,27 +1,27 @@
-![image](/Image/what-if-i-fail...what-if-you-fly.jpg)
+![image](/Image/Calling%20Card/WhatKindofGodIneedtobe.png)
 <h1 align="center">It’s nice to meet you 👋, I'm Thanatchon</h1>
-<img align="right" src="/Image/Chimon~~.gif" width="230px">
+<img align="right" src="/Image/Gif/gurren-lagann-GigaDrillBreak.gif" width="230px">
 <h3 align="center">A Man Has A Dream.🌙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
 
   ● 🔭 I’m currently working on &nbsp;[CODE-Of-CHIMON](https://github.com/CHIMON-Thanatchon/CODE-Of-CHIMON) (Private 💌)  
 
-  ● 🧑🏽‍💻 What do you learn from?   
+  ● 🧑🏽‍💻 What do you learn from?
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **KongRuksiam / W3School / Super AI Engineer(AiAT) / borntoDev School / Chat GPT etc...**
 
-  ● 🌱 I’m currently learning   
+  ● 🌱 I’m currently learning
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **Now I'm seriously studying English to learn information from foreign programmers. 🔥Fighting !!**
 
-  ● 📫 How to message me   
+  ● 📫 How to message me
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **ilovechimon@gmail.com**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: **<ilovechimon@gmail.com>**
 
-  ● 🔥 My Intention   
+  ● 🔥 My Intention
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q: **Now I'm understanding I'm learning, I'm feeling, in order to be able to speak fully. "I really love❤️ coding."**
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A: **All the effort I've made has answered that question.🌙**
 
 <h3 align="left">Connect with me:</h3>
