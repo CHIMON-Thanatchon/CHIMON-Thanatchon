@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/thanatchon.phuksakulwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanatchon phuksakulwong" height="30" width="40" /></a>
+<a href="https://fb.com/Thanatchon.Zirinawaranoent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thanatchon phuksakulwong" height="30" width="40" /></a>
 <a href="https://instagram.com/chimon_24.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chimon_24.22" height="30" width="40" /></a>
 <a href="https://discord.gg/xxkairosxxmechimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xxkairosxxmechimon" height="30" width="40" /></a>
 </p>
