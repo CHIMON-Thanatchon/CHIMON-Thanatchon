@@ -1,10 +1,11 @@
 [![image](/Image/Calling%20Card/WhatKindofGodIneedtobe.png)](https://www.youtube.com/shorts/dXpMuwb-CxE)
 <h1> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&duration=1&pause=1&color=F7F7F7&multiline=true&repeat=false&width=355&height=45&lines=Build+While+Imperfect" alt="Typing SVG" /></a><sup> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sarabun&weight=600&size=14&duration=1&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=200&height=30&lines=(+%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%88%E0%B8%B0%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B8%9A+)" alt="Typing SVG" /></a></sup> </h1>
 
+&nbsp;    
 <img align="right" src="/Image/Gif/Chimon~~.gif" width="230px">
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Man Has A Dream.🌙</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chimon-thanatchon&label=Profile%20views&color=0e75b6&style=flat" alt="chimon-thanatchon" /> </p>
+&nbsp;  
 
   ● 🔭 I’m currently working on &nbsp;[CODE-Of-CHIMON](https://github.com/CHIMON-Thanatchon/CODE-Of-CHIMON) (Private 💌)  
 
